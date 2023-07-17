@@ -9,6 +9,8 @@ if You.sad():
     beAwesome()
 ```
 
+## Hardware
+![Static Badge](https://img.shields.io/badge/Machine%20-%20MacBook%20Air%202020%20M1%20-%20black?logo=apple&labelColor=black&color=lightgrey)
 
 ## Languages 
 ![Static Badge](https://img.shields.io/badge/-%20Python%20-%20black?style=flat-square&logo=python)
