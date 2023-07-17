@@ -18,7 +18,7 @@ if You.sad():
 ![Static Badge](https://img.shields.io/badge/-%20GIT%20-%20black?style=flat-square&logo=git)
 ![Static Badge](https://img.shields.io/badge/-%20trello%20-%20blue?style=flat-square&logo=trello)
 ![Static Badge](https://img.shields.io/badge/-%20notion%20-%20grey?style=flat-square&logo=notion)
-![Static Badge](https://img.shields.io/badge/-%20Bootstrap%20-%20purple?style=flat-square&logo=bootstrap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-%20Bootstrap_Studio%20-%20purple?style=flat-square&logo=bootstrap&logoColor=white)
 
 
 
