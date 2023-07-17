@@ -1,5 +1,11 @@
 # Guten Tag 🤘🏻
 
+```python
+if You.sad():
+    You.sad().stop
+    beAwesome()
+```
+
 ## Languages 
 ![Static Badge](https://img.shields.io/badge/-%20Python%20-%20black?style=flat-square&logo=python)
 ![Static Badge](https://img.shields.io/badge/-%20html5-%20black?style=flat-square&logo=html5)
@@ -13,6 +19,7 @@
 ![Static Badge](https://img.shields.io/badge/-%20trello%20-%20blue?style=flat-square&logo=trello)
 ![Static Badge](https://img.shields.io/badge/-%20notion%20-%20grey?style=flat-square&logo=notion)
 ![Static Badge](https://img.shields.io/badge/-%20Bootstrap%20-%20purple?style=flat-square&logo=bootstrap&logoColor=white)
+
 
 
 <!--
