@@ -17,7 +17,7 @@ if You.sad():
 ![Static Badge](https://img.shields.io/badge/-%20C%2B%2B%20-%20black?style=flat-square&logo=c%2B%2B)
 
 
-## Tools
+## Tools & Programs
 ![Static Badge](https://img.shields.io/badge/-%20VSC%20-%20darkblue?style=flat-square&logo=visualstudiocode)
 ![Static Badge](https://img.shields.io/badge/-%20GIT%20-%20black?style=flat-square&logo=git)
 ![Static Badge](https://img.shields.io/badge/-%20trello%20-%20blue?style=flat-square&logo=trello)
