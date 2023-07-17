@@ -1,10 +1,14 @@
 # Guten Tag 🤘🏻
 
+
+![Static Badge](https://www.codewars.com/users/Xeferis/badges/large)
+
 ```python
 if You.sad():
     You.sad().stop
     beAwesome()
 ```
+
 
 ## Languages 
 ![Static Badge](https://img.shields.io/badge/-%20Python%20-%20black?style=flat-square&logo=python)
