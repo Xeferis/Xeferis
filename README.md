@@ -4,6 +4,7 @@
 [![Static Badge](https://www.codewars.com/users/Xeferis/badges/large)](https://www.codewars.com/users/Xeferis)
 
 ```python
+# life motto
 if You.sad():
     You.sad().stop
     beAwesome()
