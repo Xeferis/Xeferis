@@ -1,13 +1,13 @@
-### Hi there 👋
+# Guten Tag 🤘🏻
 
-#### </> Languages </>
+## Languages 
 ![Static Badge](https://img.shields.io/badge/-%20Python%20-%20black?style=flat-square&logo=python)
 ![Static Badge](https://img.shields.io/badge/-%20html5-%20black?style=flat-square&logo=html5)
 ![Static Badge](https://img.shields.io/badge/-%20Powershell%20-%20black?style=flat-square&logo=Powershell)
 ![Static Badge](https://img.shields.io/badge/-%20C%2B%2B%20-%20black?style=flat-square&logo=c%2B%2B)
 
 
-#### Tools
+## Tools
 ![Static Badge](https://img.shields.io/badge/-%20VSC%20-%20darkblue?style=flat-square&logo=visualstudiocode)
 ![Static Badge](https://img.shields.io/badge/-%20GIT%20-%20black?style=flat-square&logo=git)
 ![Static Badge](https://img.shields.io/badge/-%20trello%20-%20blue?style=flat-square&logo=trello)
