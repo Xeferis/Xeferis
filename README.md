@@ -1,8 +1,8 @@
-[![Static Badge](https://www.codewars.com/users/Xeferis/badges/large)](https://www.codewars.com/users/Xeferis)  
+![Xeferis's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeferis&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
 
 <br>
 
-![Xeferis's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeferis&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
+[![Static Badge](https://www.codewars.com/users/Xeferis/badges/large)](https://www.codewars.com/users/Xeferis)  
 
 ---
 
