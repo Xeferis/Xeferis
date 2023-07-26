@@ -23,7 +23,7 @@ if You.sad():
 ## Tools & Programs
 ![Static Badge](https://img.shields.io/badge/-%20VSC%20-%20black?style=flat-square&logo=visualstudiocode&logoColor=darkblue)
 ![Static Badge](https://img.shields.io/badge/-%20GIT%20-%20black?style=flat-square&logo=git)
-![Static Badge](https://img.shields.io/badge/-%20trello%20-%20black?style=flat-square&logo=trello&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/-%20Jira%20-%20black?style=flat-square&logo=Jira&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/-%20notion%20-%20black?style=flat-square&logo=notion)
 ![Static Badge](https://img.shields.io/badge/-%20Bootstrap_Studio%20-%20black?style=flat-square&logo=bootstrap)
 
