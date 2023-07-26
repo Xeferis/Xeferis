@@ -2,7 +2,7 @@
 
 <br>
 
-![Xeferis's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeferis&show_icons=true&theme=dark&hide_border=true)
+![Xeferis's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeferis&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
 
 ---
 
