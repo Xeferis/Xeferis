@@ -1,11 +1,8 @@
-# Guten Tag 🤘🏻
-<br>
-
 [![Static Badge](https://www.codewars.com/users/Xeferis/badges/large)](https://www.codewars.com/users/Xeferis)  
 
 <br>
 
-![Xeferis's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeferis&show_icons=true&theme=dark)
+![Xeferis's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeferis&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
