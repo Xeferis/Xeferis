@@ -16,17 +16,12 @@ if You.sad():
     beAwesome()
 ```
 
-## Hardware
-![Static Badge](https://img.shields.io/badge/Apple%20-%20MacBook%20Air%202020%20M1%20-%20black?logo=apple&labelColor=black&color=darkgrey)
-
-## Languages 
-![Static Badge](https://img.shields.io/badge/-%20Python%20-%20black?style=flat-square&logo=python)
-![Static Badge](https://img.shields.io/badge/-%20html5-%20black?style=flat-square&logo=html5)
-![Static Badge](https://img.shields.io/badge/-%20Powershell%20-%20black?style=flat-square&logo=Powershell)
-![Static Badge](https://img.shields.io/badge/-%20C%2B%2B%20-%20black?style=flat-square&logo=c%2B%2B)
-
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeferis&layout=compact)
+
+## Hardware
+![Static Badge](https://img.shields.io/badge/Apple%20-%20MacBook%20Air%202020%20M1%20-%20black?logo=apple&labelColor=black&color=darkgrey)
 
 
 ## Tools & Programs
