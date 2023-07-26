@@ -1,6 +1,6 @@
 # Guten Tag 🤘🏻
 ---
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Xeferis.Xeferis)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=xeferis.xeferis)
 ---
 
 [![Static Badge](https://www.codewars.com/users/Xeferis/badges/large)](https://www.codewars.com/users/Xeferis)
@@ -20,6 +20,9 @@ if You.sad():
 ![Static Badge](https://img.shields.io/badge/-%20html5-%20black?style=flat-square&logo=html5)
 ![Static Badge](https://img.shields.io/badge/-%20Powershell%20-%20black?style=flat-square&logo=Powershell)
 ![Static Badge](https://img.shields.io/badge/-%20C%2B%2B%20-%20black?style=flat-square&logo=c%2B%2B)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeferis&layout=compact)
 
 
 ## Tools & Programs
