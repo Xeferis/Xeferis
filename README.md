@@ -1,5 +1,7 @@
 # Guten Tag 🤘🏻
-
+---
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Xeferis.Xeferis)
+---
 
 [![Static Badge](https://www.codewars.com/users/Xeferis/badges/large)](https://www.codewars.com/users/Xeferis)
 
