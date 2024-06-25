@@ -1,3 +1,9 @@
+<h1 style="font-family: 'Courier New', monospace;">w e l c o m e</h1>
+<details>
+    <summary>
+        More Infos!
+    </summary>
+
 ![Xeferis's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeferis&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
 
 <br>
@@ -48,3 +54,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</details>
