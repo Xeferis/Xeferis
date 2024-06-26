@@ -25,7 +25,11 @@ if You.sad():
 
 ## Hardware
 ![Static Badge](https://img.shields.io/badge/Apple%20-%20MacBook%20Air%202020%20M1%20-%20black?logo=apple&labelColor=black&color=darkgrey)
-![Static Badge](https://img.shields.io/badge/Keyboard-Lemokey%20P1%20Pro-black?style=flat&color=white)
+<br>
+![Static Badge](https://img.shields.io/badge/Keyboard-Lemokey%20P1%20Pro-black?labelColor=black&color=grey)
+<br>
+![Static Badge](https://img.shields.io/badge/Mouse-Logitech%20MX%20Master%203-black?labelColor=black&color=grey)
+
 
 
 ## Tools & Programs
