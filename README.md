@@ -39,6 +39,8 @@ if You.sad():
 ![Static Badge](https://img.shields.io/badge/-%20Jira%20-%20black?style=flat-square&logo=Jira&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/-%20notion%20-%20black?style=flat-square&logo=notion)
 ![Static Badge](https://img.shields.io/badge/-%20Bootstrap_Studio%20-%20black?style=flat-square&logo=bootstrap)
+![Static Badge](https://img.shields.io/badge/VUE.JS-black?style=flat&logo=vue.js)
+![Static Badge](https://img.shields.io/badge/NUXT.JS-black?style=flat&logo=nuxt.js)
 ![Static Badge](https://img.shields.io/badge/-%20Discord-%20black?style=flat-square&logo=discord)
 
 
