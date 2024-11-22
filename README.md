@@ -29,22 +29,23 @@ if You.sad():
 ```
 
 ## Hardware
-<div align="center">
-    <div align="center">
+
+<table align="center">
+  <tr>
+    <td align="center">
         <img height="30" alt="Apple" src="https://cdn.simpleicons.org/apple/white">
-        <p>MacBook Air M1</p>
-    </div>
-    <div align="center">
+        <p>💻 MacBook Air M1</p>
+    </td>
+    <td align="center">
+        <img height="30" alt="Logi" src="https://keychron.de/cdn/shop/files/keychron_600_V1.png?v=1709622768&width=150">
+        <p>⌨️ Lemokey P1 Pro</p>
+    </td>
+    <td align="center">
         <img height="30" alt="Logi" src="https://cdn.simpleicons.org/logitech">
-        <p>MX Master 3</p>
-    </div>
-</div>
-
-
-![Static Badge](https://img.shields.io/badge/Keyboard-Lemokey%20P1%20Pro-black?labelColor=black&color=grey)
-
-
-
+        <p>🖱️ MX Master 3</p>
+    </td>
+  </tr>
+</table>
 
 ## Tools & Programs
 <div align="center">
