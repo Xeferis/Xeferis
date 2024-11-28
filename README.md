@@ -22,10 +22,12 @@
 </div>
 
 ```python
-# life motto
-if You.sad():
-    You.sad().stop
-    beAwesome()
+class Me():
+    def __init__(self):
+        self.name = "Flo"
+        self.dob = 1996
+        self.fav_lang = "Python"
+        self.toLearn = ["Swift"]
 ```
 
 ## Hardware
