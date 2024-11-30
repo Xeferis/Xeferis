@@ -39,7 +39,7 @@ class Me():
         <p>💻 MacBook Air M1</p>
     </td>
     <td align="center">
-        <img height="30" alt="Logi" src="https://keychron.de/cdn/shop/files/keychron_600_V1.png?v=1709622768&width=150">
+        <img height="30" alt="Keychron" src="Xeferis/Xeferis/static/images/Keychron_logo_white.png">
         <p>⌨️ Lemokey P1 Pro</p>
     </td>
     <td align="center">
