@@ -1,6 +1,6 @@
 # Interesting tech
 
-* Here I'll collect everything that I think is interesting and that i want to use/test at somepoint or that I'm already using. *
+*Here I'll collect everything that I think is interesting and that i want to use/test at somepoint or that I'm already using.*
 
 ## WebDev
 
