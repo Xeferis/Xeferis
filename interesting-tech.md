@@ -14,7 +14,6 @@ Here i'll collect everything that I think is interesting and that i want to use/
 - [Bootstrap](https://getbootstrap.com/)
 - [Tailwind.css](https://tailwindcss.com/)
 - [Shadcn/ui (Component Framework)](https://ui.shadcn.com/)
-- 
 
 ## Python
 
