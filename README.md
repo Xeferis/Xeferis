@@ -49,7 +49,7 @@ class Me():
   </tr>
 </table>
 
-##The tools & programs I use
+## The tools & programs I use
 <div align="center">
     <code><img height="30" alt="Github" src="https://cdn.simpleicons.org/github/white"></code>
     <code><img height="30" alt="git" src="https://cdn.simpleicons.org/git"></code>
