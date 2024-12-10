@@ -30,7 +30,7 @@ class Me():
         self.toLearn = ["Swift"]
 ```
 
-## Hardware
+## The hardware I use
 
 <table align="center">
   <tr>
@@ -49,7 +49,7 @@ class Me():
   </tr>
 </table>
 
-## Tools & Programs
+##The tools & programs I use
 <div align="center">
     <code><img height="30" alt="Github" src="https://cdn.simpleicons.org/github/white"></code>
     <code><img height="30" alt="git" src="https://cdn.simpleicons.org/git"></code>
