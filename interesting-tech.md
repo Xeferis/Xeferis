@@ -6,16 +6,16 @@
 
 ### Frameworks
 
-#### Javascript
-- [Nuxt.js (Vue Framework)](https://nuxt.com/)
-- [Hugo.js](https://gohugo.io/)
+>#### Javascript
+>- [Nuxt.js (Vue Framework)](https://nuxt.com/)
+>- [Hugo.js](https://gohugo.io/)
 
-#### CSS
-- [Bootstrap](https://getbootstrap.com/)
-- [Tailwind.css](https://tailwindcss.com/)
-- [Shadcn/ui (Component Framework)](https://ui.shadcn.com/)
+>#### CSS
+>- [Bootstrap](https://getbootstrap.com/)
+>- [Tailwind.css](https://tailwindcss.com/)
+>- [Shadcn/ui (Component Framework)](https://ui.shadcn.com/)
 
 ## Python
 
 ### Libraries
-- [Pygame](https://www.pygame.org/news)
+>- [Pygame](https://www.pygame.org/news)
