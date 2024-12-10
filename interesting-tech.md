@@ -15,3 +15,8 @@ Here i'll collect everything that I think is interesting and that i want to use/
 - [Tailwind.css](https://tailwindcss.com/)
 - [Shadcn/ui (Component Framework)](https://ui.shadcn.com/)
 - 
+
+## Python
+
+### Libraries
+- [Pygame](https://www.pygame.org/news)
