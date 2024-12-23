@@ -23,4 +23,4 @@
 
 ## Misc
 
-> - JSON Crack
+> - [JSON Crack](https://github.com/AykutSarac/jsoncrack-vscode)
