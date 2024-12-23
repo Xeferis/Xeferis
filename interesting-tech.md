@@ -19,3 +19,8 @@
 
 ### Libraries
 > - [Pygame](https://www.pygame.org/news)
+
+
+## Misc
+
+> - JSON Crack
