@@ -46,6 +46,10 @@ class Me():
         <img height="30" alt="Logi" src="https://cdn.simpleicons.org/logitech">
         <p>🖱️ MX Master 3</p>
     </td>
+    <td align="center">
+        <img height="30" alt="Samsung" src="https://cdn.simpleicons.org/Samsung">
+        <p>🖥️ Odyssey G9 49"</p>
+    </td>
   </tr>
 </table>
 
