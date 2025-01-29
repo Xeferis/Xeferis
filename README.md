@@ -63,7 +63,7 @@ class Me():
     <code><img height="30" alt="sqla" src="https://cdn.simpleicons.org/sqlalchemy"></code>
     <code><img height="30" alt="tailwind" src="https://cdn.simpleicons.org/tailwindcss"></code>
     <code><img height="30" alt="vue" src="https://cdn.simpleicons.org/vuedotjs"></code>
-    <code><img height="30" alt="nuxt" src="https://cdn.simpleicons.org/nuxtdotjs"></code>
+    <code><img height="30" alt="nuxt" src="https://cdn.simpleicons.org/nuxt"></code>
     <code><img height="30" alt="discord" src="https://cdn.simpleicons.org/discord"></code>
     <code><img height="30" alt="brew" src="https://cdn.simpleicons.org/homebrew"></code>
 </div>
