@@ -66,4 +66,6 @@ class Me():
     <code><img height="30" alt="nuxt" src="https://cdn.simpleicons.org/nuxt"></code>
     <code><img height="30" alt="discord" src="https://cdn.simpleicons.org/discord"></code>
     <code><img height="30" alt="brew" src="https://cdn.simpleicons.org/homebrew"></code>
+    <code><img height="30" alt="brew" src="https://cdn.simpleicons.org/iterm2/white"></code>
+    <code><img height="30" alt="brew" src="https://cdn.simpleicons.org/figma"></code>
 </div>
