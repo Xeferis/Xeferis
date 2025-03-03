@@ -17,6 +17,8 @@
 
 > ### Tools
 > - [reacbits](https://www.reactbits.dev/)
+> - [realtime colors](https://www.realtimecolors.com/?colors=050315-fbfbfe-2f27ce-dedcff-433bff&fonts=Inter-Inter)
+> - [Neumorphism](https://neumorphism.io/#e0e0e0)
 
 ## Python
 
