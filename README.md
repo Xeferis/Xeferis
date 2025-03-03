@@ -69,3 +69,5 @@ class Me():
     <code><img height="30" alt="brew" src="https://cdn.simpleicons.org/iterm2/white"></code>
     <code><img height="30" alt="brew" src="https://cdn.simpleicons.org/figma"></code>
 </div>
+
+### [Interesting tech & websites](./interesting-tech.md)
