@@ -15,6 +15,9 @@
 > - [Tailwind.css](https://tailwindcss.com/)
 > - [Shadcn/ui (Component Framework)](https://ui.shadcn.com/)
 
+> ### Tools
+> - [reacbits](https://www.reactbits.dev/)
+
 ## Python
 
 ### Libraries
