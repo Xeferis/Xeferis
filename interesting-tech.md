@@ -20,6 +20,8 @@
 > - [realtime colors](https://www.realtimecolors.com/?colors=050315-fbfbfe-2f27ce-dedcff-433bff&fonts=Inter-Inter)
 > - [Neumorphism](https://neumorphism.io/#e0e0e0)
 > - [Open Source UI](https://uiverse.io/)
+> - [Acenternity UI](https://ui.aceternity.com/)
+> - [Magic UI](https://magicui.design/)
 
 ## Python
 
