@@ -13,6 +13,7 @@
 > #### CSS
 > - [Bootstrap](https://getbootstrap.com/)
 > - [Tailwind.css](https://tailwindcss.com/)
+> - [Headless UI](https://headlessui.com/)
 > - [Shadcn/ui (Component Framework)](https://ui.shadcn.com/)
 
 > ### Tools
