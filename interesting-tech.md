@@ -16,6 +16,9 @@
 > - [Headless UI](https://headlessui.com/)
 > - [Shadcn/ui (Component Framework)](https://ui.shadcn.com/)
 
+> ### Hosting
+> - [Railway](https://railway.com/features)
+
 > ### Tools
 > - [reacbits](https://www.reactbits.dev/)
 > - [realtime colors](https://www.realtimecolors.com/?colors=050315-fbfbfe-2f27ce-dedcff-433bff&fonts=Inter-Inter)
