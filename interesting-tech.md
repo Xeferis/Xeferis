@@ -18,6 +18,7 @@
 
 > ### Hosting
 > - [Railway](https://railway.com/features)
+> - [Vercel](https://vercel.com/home)
 
 > ### Tools
 > - [reacbits](https://www.reactbits.dev/)
