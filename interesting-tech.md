@@ -27,6 +27,7 @@
 > - [Open Source UI](https://uiverse.io/)
 > - [Acenternity UI](https://ui.aceternity.com/)
 > - [Magic UI](https://magicui.design/)
+> - [Anime.js](https://animejs.com/)
 
 ## Python
 
