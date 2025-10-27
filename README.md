@@ -13,7 +13,7 @@
 <div align='center'>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=xeferis&show_icons=true&hide_border=true&bg_color=00000000&theme=dark">
-        <img src='https://github-readme-stats.vercel.app/api?username=xeferis&show_icons=true&hide_border=true&bg_color=00000000&theme=dark' alt='My-Github-Stats'>
+        <img src='https://github-readme-stats.vercel.app/api?username=Xeferis&show_icons=true&hide_border=true&bg_color=00000000&theme=dark' alt='My-Github-Stats'>
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xeferis&layout=compact&hide_border=true&hide=html%23css%23MATLAB&bg_color=00000000&theme=dark">
