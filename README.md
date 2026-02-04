@@ -10,6 +10,7 @@
     </a>
 </div>
 
+<!--
 <div align='center'>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=xeferis&show_icons=true&hide_border=true&bg_color=00000000&theme=dark">
@@ -20,6 +21,7 @@
         <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=xeferis&layout=compact&hide_border=true&hide=html%23css%23MATLAB&bg_color=00000000&theme=dark' alt='Top_Languages'>
     </picture>
 </div>
+-->
 
 ```python
 class Me():
@@ -43,7 +45,7 @@ class Me():
         <p>⌨️ Lemokey P1 Pro</p>
     </td>
     <td align="center">
-        <img height="30" alt="Logi" src="https://cdn.simpleicons.org/logitech">
+        <img height="30" alt="Logi" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logitech_logo.svg/960px-Logitech_logo.svg.png">
         <p>🖱️ MX Master 3</p>
     </td>
     <td align="center">
