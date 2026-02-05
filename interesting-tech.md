@@ -39,7 +39,9 @@
 
 > - [Apple Ressources](https://developer.apple.com/design/resources/)
 > - [JSON Crack](https://github.com/AykutSarac/jsoncrack-vscode)
+> - [Mac Cleanup](https://github.com/tw93/Mole)
 
 ## KI
 
 > - [Eleven Labs](https://elevenlabs.io/)
+> - [Higgsfield](https://higgsfield.ai/)
