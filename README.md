@@ -38,7 +38,7 @@ class Me():
   <tr>
     <td align="center">
         <img height="30" alt="Apple" src="https://cdn.simpleicons.org/apple/white">
-        <p>💻 MacBook Air M1</p>
+        <p>💻 MacBook Pro M5</p>
     </td>
     <td align="center">
         <img height="30" alt="Keychron" src="https://raw.githubusercontent.com/Xeferis/Xeferis/refs/heads/main/static/images/Keychron_logo_white.png">
